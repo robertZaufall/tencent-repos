@@ -505,6 +505,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "openclaw-weixin": "ai-agents-models",
         "wave-mcp": "ai-agents-models",
         "workbuddy-bench": "ai-agents-models",
+        "wevisdoc": "ai-agents-models",
+        "wechatreading": "ai-agents-models",
         "mmkv": "mobile-wechat-runtime",
         "tinker": "mobile-wechat-runtime",
         "hippy": "mobile-wechat-runtime",
