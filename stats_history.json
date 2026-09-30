@@ -2634,6 +2634,251 @@
           "stars": 368
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "repos": {
+        "Tencent/AI-Infra-Guard": {
+          "forks": 622,
+          "pushed_at": "2026-09-29T08:00:05Z",
+          "stars": 6640
+        },
+        "Tencent/AngelSlim": {
+          "forks": 184,
+          "pushed_at": "2026-09-25T07:42:53Z",
+          "stars": 1669
+        },
+        "Tencent/AngelSpec": {
+          "forks": 28,
+          "pushed_at": "2026-07-31T10:37:53Z",
+          "stars": 274
+        },
+        "Tencent/Biny": {
+          "forks": 252,
+          "pushed_at": "2026-08-24T03:30:40Z",
+          "stars": 1679
+        },
+        "Tencent/BqLog": {
+          "forks": 52,
+          "pushed_at": "2026-09-28T09:56:31Z",
+          "stars": 631
+        },
+        "Tencent/BrowserSkill": {
+          "forks": 558,
+          "pushed_at": "2026-09-30T04:52:55Z",
+          "stars": 7925
+        },
+        "Tencent/Hippy": {
+          "forks": 1007,
+          "pushed_at": "2026-09-09T09:21:08Z",
+          "stars": 8564
+        },
+        "Tencent/KsanaLLM": {
+          "forks": 46,
+          "pushed_at": "2026-08-27T08:11:19Z",
+          "stars": 550
+        },
+        "Tencent/MMKV": {
+          "forks": 1989,
+          "pushed_at": "2026-09-14T08:10:14Z",
+          "stars": 18754
+        },
+        "Tencent/TAD_Sim": {
+          "forks": 121,
+          "pushed_at": "2026-07-13T01:41:49Z",
+          "stars": 466
+        },
+        "Tencent/TencentKona-11": {
+          "forks": 53,
+          "pushed_at": "2026-08-05T03:21:53Z",
+          "stars": 346
+        },
+        "Tencent/TencentKona-8": {
+          "forks": 151,
+          "pushed_at": "2026-08-05T03:17:17Z",
+          "stars": 1004
+        },
+        "Tencent/TencentKonaSMSuite": {
+          "forks": 89,
+          "pushed_at": "2026-09-09T06:03:03Z",
+          "stars": 456
+        },
+        "Tencent/Tendis": {
+          "forks": 343,
+          "pushed_at": "2026-09-17T07:34:58Z",
+          "stars": 3165
+        },
+        "Tencent/WeChatReading": {
+          "forks": 16,
+          "pushed_at": "2026-07-01T13:28:18Z",
+          "stars": 248
+        },
+        "Tencent/WeKnora": {
+          "forks": 4185,
+          "pushed_at": "2026-09-30T05:43:56Z",
+          "stars": 31330
+        },
+        "Tencent/WeMM-Embedding": {
+          "forks": 117,
+          "pushed_at": "2026-09-20T14:09:11Z",
+          "stars": 1697
+        },
+        "Tencent/WeSmartFlow": {
+          "forks": 9,
+          "pushed_at": "2026-09-18T09:46:16Z",
+          "stars": 1059
+        },
+        "Tencent/WeVisDoc": {
+          "forks": 16,
+          "pushed_at": "2026-09-18T02:44:20Z",
+          "stars": 364
+        },
+        "Tencent/YOLO-Master": {
+          "forks": 159,
+          "pushed_at": "2026-09-28T16:42:41Z",
+          "stars": 740
+        },
+        "Tencent/cherry-markdown": {
+          "forks": 577,
+          "pushed_at": "2026-09-29T07:36:32Z",
+          "stars": 4886
+        },
+        "Tencent/digitalhuman": {
+          "forks": 51,
+          "pushed_at": "2026-08-27T09:21:16Z",
+          "stars": 363
+        },
+        "Tencent/flare": {
+          "forks": 208,
+          "pushed_at": "2026-07-03T02:47:55Z",
+          "stars": 1406
+        },
+        "Tencent/hel": {
+          "forks": 99,
+          "pushed_at": "2026-08-18T04:02:51Z",
+          "stars": 1108
+        },
+        "Tencent/hpc-ops": {
+          "forks": 143,
+          "pushed_at": "2026-09-07T05:19:02Z",
+          "stars": 1170
+        },
+        "Tencent/libpag": {
+          "forks": 531,
+          "pushed_at": "2026-09-30T03:20:33Z",
+          "stars": 5795
+        },
+        "Tencent/loli_profiler": {
+          "forks": 93,
+          "pushed_at": "2026-09-30T06:19:13Z",
+          "stars": 695
+        },
+        "Tencent/ncnn": {
+          "forks": 4508,
+          "pushed_at": "2026-09-24T13:58:45Z",
+          "stars": 23897
+        },
+        "Tencent/omi": {
+          "forks": 1254,
+          "pushed_at": "2026-09-24T07:37:08Z",
+          "stars": 13271
+        },
+        "Tencent/openclaw-weixin": {
+          "forks": 169,
+          "pushed_at": "2026-09-21T14:23:15Z",
+          "stars": 900
+        },
+        "Tencent/puerts": {
+          "forks": 864,
+          "pushed_at": "2026-09-29T15:14:18Z",
+          "stars": 6217
+        },
+        "Tencent/spring-cloud-tencent": {
+          "forks": 510,
+          "pushed_at": "2026-09-10T04:00:03Z",
+          "stars": 3297
+        },
+        "Tencent/tdesign": {
+          "forks": 342,
+          "pushed_at": "2026-09-29T06:37:35Z",
+          "stars": 4077
+        },
+        "Tencent/tdesign-flutter": {
+          "forks": 184,
+          "pushed_at": "2026-09-30T01:46:10Z",
+          "stars": 1206
+        },
+        "Tencent/tdesign-miniprogram": {
+          "forks": 341,
+          "pushed_at": "2026-09-30T06:15:39Z",
+          "stars": 1771
+        },
+        "Tencent/tdesign-miniprogram-starter-retail": {
+          "forks": 211,
+          "pushed_at": "2026-09-01T02:53:22Z",
+          "stars": 861
+        },
+        "Tencent/tdesign-mobile-vue": {
+          "forks": 214,
+          "pushed_at": "2026-09-30T03:24:20Z",
+          "stars": 435
+        },
+        "Tencent/tdesign-react": {
+          "forks": 374,
+          "pushed_at": "2026-09-29T07:01:30Z",
+          "stars": 967
+        },
+        "Tencent/tdesign-vue": {
+          "forks": 384,
+          "pushed_at": "2026-09-29T21:52:38Z",
+          "stars": 1033
+        },
+        "Tencent/tdesign-vue-next": {
+          "forks": 642,
+          "pushed_at": "2026-09-30T03:32:20Z",
+          "stars": 2190
+        },
+        "Tencent/tdesign-vue-next-starter": {
+          "forks": 247,
+          "pushed_at": "2026-09-29T12:00:39Z",
+          "stars": 984
+        },
+        "Tencent/tdesign-vue-starter": {
+          "forks": 109,
+          "pushed_at": "2026-08-01T21:02:36Z",
+          "stars": 478
+        },
+        "Tencent/teamai-cli": {
+          "forks": 384,
+          "pushed_at": "2026-09-30T06:01:02Z",
+          "stars": 5077
+        },
+        "Tencent/tgfx": {
+          "forks": 135,
+          "pushed_at": "2026-09-29T09:52:42Z",
+          "stars": 1590
+        },
+        "Tencent/tinker": {
+          "forks": 3347,
+          "pushed_at": "2026-09-24T07:20:11Z",
+          "stars": 17659
+        },
+        "Tencent/tmagic-editor": {
+          "forks": 799,
+          "pushed_at": "2026-09-23T09:33:42Z",
+          "stars": 4943
+        },
+        "Tencent/wave-mcp": {
+          "forks": 31,
+          "pushed_at": "2026-09-24T11:05:48Z",
+          "stars": 220
+        },
+        "Tencent/workbuddy-bench": {
+          "forks": 41,
+          "pushed_at": "2026-08-20T06:07:27Z",
+          "stars": 371
+        }
+      }
     }
   ]
 }
