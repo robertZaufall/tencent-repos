@@ -538,6 +538,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "tsw": "cloud-data-distributed",
         "tbase": "cloud-data-distributed",
         "caelus": "cloud-data-distributed",
+        "dcache": "cloud-data-distributed",
+        "tquic": "cloud-data-distributed",
         "tencentkona-8": "languages-jdks-devtools",
         "tencentkona-11": "languages-jdks-devtools",
         "biny": "languages-jdks-devtools",
