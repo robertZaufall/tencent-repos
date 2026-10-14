@@ -65,7 +65,9 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("Unity", ("unity",)),
     ("Unreal", ("unreal", "ue4", "ue5")),
 )
-SUBSTRING_KEYWORDS = {"WeChat", "TDesign", "AI", "LLM", "RAG", "MCP", "JDK", "QUIC"}
+# "RAG" uses word-boundary matching: as a substring it fired on "storage"
+# (MMKV, Tendis, PaxosStore, ...).
+SUBSTRING_KEYWORDS = {"WeChat", "TDesign", "AI", "LLM", "MCP", "JDK", "QUIC"}
 
 
 @dataclass(frozen=True)
