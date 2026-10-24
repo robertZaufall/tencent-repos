@@ -16,6 +16,8 @@ Usage:
 
 from __future__ import annotations
 
+from local_assets import local_avatar
+
 import argparse
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -725,7 +727,7 @@ def repo_row(repo: dict[str, Any], rank: int | None = None, include_cluster: boo
     desc = escape(repo["description"] or "No description provided.")
     topic_html = keyword_buttons(repo)
     owner = repo["full_name"].split("/", 1)[0]
-    avatar = f"https://github.com/{escape(owner)}.png?size=32"
+    avatar = local_avatar(owner)
     name_cell = (
         f'<div class="repo-name"><img src="{avatar}" alt="" class="avatar">'
         f'<a href="{escape(repo["url"])}" target="_blank" rel="noreferrer">{escape(repo["name"])}</a></div>'
@@ -957,7 +959,7 @@ def render_html(
 </script>
 <title>Tencent GitHub Repository Atlas</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/fonts/fonts.css">
 <style>
   :root {{
     --bg: #07101a;
