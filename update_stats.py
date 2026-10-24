@@ -1572,6 +1572,8 @@ def render_html(
       <a class="gh-link" href="https://cloud.tencent.com/" target="_blank" rel="noreferrer" style="display: inline;">Tencent Cloud</a>
     </p>
     <p style="text-align: center;">Generated from the GitHub API · Last updated: <span id="last-updated-date">{updated}</span></p>
+
+    <p class="rz-legal"><span>© 2026 <a href="https://zaufall.de/" target="_top">Robert Zaufall</a></span> · <a href="https://zaufall.de/datenschutz/" target="_blank" rel="noopener noreferrer">Datenschutz / Privacy Notice</a></p>
   </footer>
 
 <script>
