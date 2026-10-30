@@ -550,6 +550,9 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "biny": "languages-jdks-devtools",
         "bqlog": "languages-jdks-devtools",
         "loli_profiler": "languages-jdks-devtools",
+        # Evidence 2026-10-30: rapidjson (C++ SAX/DOM JSON parser/generator library)
+        # re-entered the catalog and fell into AI, Agents & Models via generic term scoring.
+        "rapidjson": "languages-jdks-devtools",
         "libpag": "graphics-games-media",
         "tgfx": "graphics-games-media",
         "digitalhuman": "graphics-games-media",
