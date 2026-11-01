@@ -10909,9 +10909,9 @@
       "date": "2026-11-01",
       "repos": {
         "Tencent/AI-Infra-Guard": {
-          "forks": 703,
+          "forks": 704,
           "pushed_at": "2026-10-30T01:28:25Z",
-          "stars": 7252
+          "stars": 7255
         },
         "Tencent/AngelSlim": {
           "forks": 195,
@@ -10931,7 +10931,7 @@
         "Tencent/BrowserSkill": {
           "forks": 703,
           "pushed_at": "2026-10-31T13:02:05Z",
-          "stars": 9855
+          "stars": 9869
         },
         "Tencent/CognitiveKernel-Pro": {
           "forks": 57,
@@ -10951,7 +10951,7 @@
         "Tencent/MMKV": {
           "forks": 1997,
           "pushed_at": "2026-10-26T12:46:14Z",
-          "stars": 18768
+          "stars": 18769
         },
         "Tencent/MedicalNet": {
           "forks": 465,
@@ -10996,17 +10996,17 @@
         "Tencent/WeChatReading": {
           "forks": 18,
           "pushed_at": "2026-10-10T11:17:46Z",
-          "stars": 270
+          "stars": 271
         },
         "Tencent/WeKnora": {
-          "forks": 4913,
-          "pushed_at": "2026-10-30T13:53:32Z",
-          "stars": 36138
+          "forks": 4920,
+          "pushed_at": "2026-11-01T11:56:06Z",
+          "stars": 36159
         },
         "Tencent/WeMM-Embedding": {
           "forks": 124,
           "pushed_at": "2026-10-29T12:09:07Z",
-          "stars": 1801
+          "stars": 1802
         },
         "Tencent/WeSmartFlow": {
           "forks": 11,
@@ -11021,7 +11021,7 @@
         "Tencent/WeVisOne-VL": {
           "forks": 45,
           "pushed_at": "2026-10-25T10:17:41Z",
-          "stars": 488
+          "stars": 489
         },
         "Tencent/YOLO-Master": {
           "forks": 161,
@@ -11071,7 +11071,7 @@
         "Tencent/openclaw-weixin": {
           "forks": 175,
           "pushed_at": "2026-10-13T03:31:49Z",
-          "stars": 994
+          "stars": 995
         },
         "Tencent/puerts": {
           "forks": 870,
@@ -11140,12 +11140,12 @@
         },
         "Tencent/teamai-cli": {
           "forks": 486,
-          "pushed_at": "2026-11-01T04:00:46Z",
-          "stars": 5725
+          "pushed_at": "2026-11-01T12:08:42Z",
+          "stars": 5727
         },
         "Tencent/tgfx": {
           "forks": 135,
-          "pushed_at": "2026-10-31T15:50:15Z",
+          "pushed_at": "2026-11-01T07:48:39Z",
           "stars": 1601
         },
         "Tencent/tinker": {
