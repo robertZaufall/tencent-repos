@@ -22,6 +22,7 @@ import argparse
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from http.client import RemoteDisconnected
 from html import escape
 import json
 import math
@@ -282,7 +283,7 @@ class GitHubClient:
                     continue
                 detail = exc.read().decode("utf-8", errors="replace")[:300]
                 raise RuntimeError(f"GitHub API failed for {url}: HTTP {exc.code}: {detail}") from exc
-            except (URLError, TimeoutError) as exc:
+            except (RemoteDisconnected, URLError, TimeoutError) as exc:
                 if attempt < 3:
                     time.sleep(2 * (attempt + 1))
                     continue
