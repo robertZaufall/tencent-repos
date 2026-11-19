@@ -554,6 +554,9 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         # Evidence 2026-10-30: rapidjson (C++ SAX/DOM JSON parser/generator library)
         # re-entered the catalog and fell into AI, Agents & Models via generic term scoring.
         "rapidjson": "languages-jdks-devtools",
+        # Evidence 2026-11-19: lemon-cleaner (Tencent Lemon macOS cleanup/system
+        # monitor utility) re-entered via daily refresh and fell into AI, Agents & Models.
+        "lemon-cleaner": "languages-jdks-devtools",
         "libpag": "graphics-games-media",
         "tgfx": "graphics-games-media",
         "digitalhuman": "graphics-games-media",
